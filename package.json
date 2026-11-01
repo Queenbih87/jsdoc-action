@@ -30,12 +30,12 @@
   },
   "homepage": "https://github.com/andstor/jsdoc-action#readme",
   "dependencies": {
-    "@actions/core": "^1.1.1",
+    "@actions/core": "^1.9.1",
     "@actions/exec": "^1.0.3",
-    "jsdoc": "^3.6.3"
+    "jsdoc": "^4.0.5"
   },
   "devDependencies": {
-    "eslint": "^6.3.0",
-    "jest": "^24.9.0"
+    "eslint": "^10.14.0",
+    "jest": "^30.5.2"
   }
 }
